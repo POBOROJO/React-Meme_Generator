@@ -58,4 +58,14 @@ nav{
     border: none;
 }
 
+.meme--container{
+    margin-top: 100px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
 
+.meme--image{
+    max-height: 50vh;
+    box-shadow: 1px 1px 2px 1px grey;
+}
